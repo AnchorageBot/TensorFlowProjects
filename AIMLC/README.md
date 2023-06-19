@@ -12,3 +12,5 @@ You'll learn:
 * How to serve models over the web and in the cloud with TensorFlow Serving
 
 The code for this book is available at https://github.com/lmoroney/tfbook
+
+'Determine the activities and write the code that matches the data to the labels '
