@@ -16,6 +16,8 @@ Books
 
 MOOCs
 
+* [Coursera](https://www.coursera.org)
+
 * [Dr. Andrew Ng's courses](https://www.andrewng.org/courses/)
 
 * [MOOC dot org](https://www.mooc.org)
