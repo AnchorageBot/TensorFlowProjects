@@ -8,4 +8,4 @@ If you're a mobile developer, this book will help you take advantage of the ML r
 * Choose the best techniques and tools for your use case, such as cloud-based versus on-device inference and high-level versus low-level APIs
 * Learn privacy and ethics best practices for ML on devices
 
-Supplemental material (code examples, exercises, etc.) is available for download at https://github.com/lmoroney/odmlbook.
+Supplemental material (code examples, exercises, etc.) is available for download at https://github.com/lmoroney/odmlbook
