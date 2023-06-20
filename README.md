@@ -9,6 +9,10 @@ Videos
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
 * [Machine Learning for Raspberry Pi - Kang](https://www.youtube.com/@TensorFlow/videos)
 
+Papers
+
+* Nature [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6)
+
 Books
 
 * [AI and Machine Learning for Coders - Laurence Moroney](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
