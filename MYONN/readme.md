@@ -1,4 +1,4 @@
-
+[Make Your Own Neural Network - Tariq Rashid](https://github.com/makeyourownneuralnetwork)
 
 
 What will we do? 
