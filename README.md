@@ -8,6 +8,7 @@ Videos
 
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
 * [Machine Learning for Raspberry Pi - Kang](https://www.youtube.com/@TensorFlow/videos)
+* [Machine Learning for Everybody-Kylie Ying](https://youtu.be/i_LwzRVP7bg)
 
 Papers
 
