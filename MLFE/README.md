@@ -1,7 +1,9 @@
 Machine Learning for Everybody
 
 Teacher: Kylie Ying
+
 Sponsor: FreeCodeCamp
+
 Python IDE: Google Colab
 
 [Class Video](https://youtu.be/i_LwzRVP7bg)
