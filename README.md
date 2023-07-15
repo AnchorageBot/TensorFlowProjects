@@ -12,6 +12,8 @@ Videos
 
 Papers
 
+* [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf)
+
 * Nature [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6)
 
 Books
