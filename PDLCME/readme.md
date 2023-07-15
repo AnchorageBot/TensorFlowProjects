@@ -2,6 +2,10 @@
 
 This step-by-step guide teaches you how to build practical deep learning applications for the cloud, mobile, browsers, and edge devices using a hands-on approach.
 
+<p align="center">
+  <img width="460" height="300" src="![PerceptronExample](https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/db0cee6b-fc43-4efb-b7ff-2391ef97d0b9)0">
+</p>
+
 ![PerceptronExample](https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/db0cee6b-fc43-4efb-b7ff-2391ef97d0b9)
 
 
