@@ -6,8 +6,10 @@ This step-by-step guide teaches you how to build practical deep learning applica
   <img width="460" height="300" src="https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/db0cee6b-fc43-4efb-b7ff-2391ef97d0b9">
 </p>
 
-![PerceptronExample](https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/db0cee6b-fc43-4efb-b7ff-2391ef97d0b9)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/c90c4a7b-3133-46d6-8e15-886e9422bfc3">
+</p>
 
 ![MultilayerNN](https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/c90c4a7b-3133-46d6-8e15-886e9422bfc3)
 
