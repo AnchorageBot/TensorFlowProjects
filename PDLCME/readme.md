@@ -2,6 +2,8 @@
 
 This step-by-step guide teaches you how to build practical deep learning applications for the cloud, mobile, browsers, and edge devices using a hands-on approach.
 
+You’ll find ready-to-run examples at http://PracticalDeepLearning.ai
+
 ![DLM_Cat](https://github.com/AnchorageBot/TensorFlowProjects/assets/47305410/7a84cbc8-db95-4861-bee4-7f58f4c8b0c6)
 
 
