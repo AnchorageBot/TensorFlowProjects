@@ -14,6 +14,8 @@ Papers
 
 * [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf) - Umass edu
 
+* [Alopex: A Correlation-Based Learning Algorithm for Feedforward and Recurrent Neural Networks - K.P.Unnikrishnan, K.P. Venugopal](https://www.cs.colostate.edu/~anderson/cs545/notebooks/Alopex.pdf) 
+
 * [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs) 
 
 * [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6) - Nature
