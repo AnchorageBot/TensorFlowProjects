@@ -43,7 +43,7 @@ General Observations
 
 * 'convert an image into a numerical representation'
 
-* 'Determine the activities and write the code that matches the data to the labels'
+* 'determine the activities and write the code that matches the data to the labels'
 
 IDE
 
