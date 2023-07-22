@@ -13,10 +13,3 @@ You'll learn:
 
 The code for this book is available at https://github.com/lmoroney/tfbook
 
-
-* 'machine learning provides pattern recognition'
-
-* 'convert an image into a numerical representation'
-
-* 'Determine the activities and write the code that matches the data to the labels'
-
