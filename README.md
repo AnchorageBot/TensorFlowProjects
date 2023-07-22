@@ -37,6 +37,14 @@ MOOCs
 
 * [MOOC dot org](https://www.mooc.org)
 
+General Observations
+
+* 'machine learning provides pattern recognition'
+
+* 'convert an image into a numerical representation'
+
+* 'Determine the activities and write the code that matches the data to the labels'
+
 IDE
 
 [Colab](https://colab.research.google.com) notebooks are [Jupyter](https://jupyter.org) notebooks 
@@ -48,10 +56,3 @@ Colab, or "Colaboratory", allows you to write and execute Python in your browser
 
 JupyterLab is a web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. 
 
-General Observations
-
-* 'machine learning provides pattern recognition'
-
-* 'convert an image into a numerical representation'
-
-* 'Determine the activities and write the code that matches the data to the labels'
