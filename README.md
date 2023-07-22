@@ -49,7 +49,7 @@ General Observations
 
 IDE
 
-[Colab](https://colab.research.google.com) notebooks are [Jupyter](https://jupyter.org) notebooks 
+[Google Colab](https://colab.research.google.com) notebooks are [Jupyter](https://jupyter.org) notebooks 
 
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
 - Zero configuration required
