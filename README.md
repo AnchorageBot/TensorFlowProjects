@@ -20,7 +20,7 @@ Papers
 
 * [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf - 2017](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
 
-  * [Dataset used in the Xiao et al Paper](https://github.com/zalandoresearch/fashion-mnist)
+  * [Dataset used in the Xiao et al Paper](https://github.com/zalandoresearch/fashion-mnist) - Github
 
 * [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer - 2021](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV]
 
