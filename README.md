@@ -42,6 +42,7 @@ Books
 * [Practical Artificial Intelligence with Swift - Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/)
 * [Building Machine Learning Powered Applications - Emmanuel Ameisen](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/?_gl=1*cy5rgq*_ga*NjI2NjUxOTE2LjE2ODc2NjgwODc.*_ga_092EL089CH*MTY4NzY2ODA4Ny4xLjAuMTY4NzY2ODA5NC41My4wLjA.)
 * [Machine Learning with Python Cookbook - Chris Albon](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
+* [No BS Guides to Linear Algebra, Math, and Physics - Ivan Savov](https://minireference.com)
 
 MOOCs
 
