@@ -18,7 +18,9 @@ Papers
 
 * [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - 2015](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs)
 
-* [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf - 2017](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam - April, 2017](https://arxiv.org/abs/1704.04861)
+
+* [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf - August, 2017](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
 
   * [Dataset used in the Xiao et al Paper](https://github.com/zalandoresearch/fashion-mnist) - Github
 
