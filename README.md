@@ -20,6 +20,8 @@ Papers
 
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam - April, 2017](https://arxiv.org/abs/1704.04861) - arXiv:1704.04861 [cs.CV]
 
+* [Attention Is All You Need -Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin - June 2017](https://arxiv.org/abs/1706.03762) - 	arXiv:1706.03762 [cs.CL]
+
 * [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf - August, 2017](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
 
   * [Dataset used in the Xiao et al Paper](https://github.com/zalandoresearch/fashion-mnist) - Github
