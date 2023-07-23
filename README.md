@@ -28,7 +28,7 @@ Papers
 
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
 
-* [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6) - Nature
+* [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi - 2023](https://www.nature.com/articles/d41586-023-01970-6) - Nature
 
 Books
 
