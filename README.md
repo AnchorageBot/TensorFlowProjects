@@ -20,6 +20,8 @@ Papers
 
 * [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
 
+* [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV]
+
 * [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6) - Nature
 
 Books
