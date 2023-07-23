@@ -22,7 +22,7 @@ Papers
 
 * [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV]
 
-  * [Paper Code](https://github.com/CompVis/latent-diffusion) - Github
+  * [Code from the Paper](https://github.com/CompVis/latent-diffusion) - Github
 
 * [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6) - Nature
 
