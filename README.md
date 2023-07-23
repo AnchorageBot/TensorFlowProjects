@@ -16,7 +16,9 @@ Papers
 
 * :wolf: [Alopex: A Correlation-Based Learning Algo for Feedforward and Recurrent Neural Networks - K.P.Unnikrishnan, K.P. Venugopal](https://www.cs.colostate.edu/~anderson/cs545/notebooks/Alopex.pdf) - CSU edu 
 
-* [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs) 
+* [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs)
+
+* [Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms - Han Xiao, Kashif Rasul, Roland Vollgraf](https://arxiv.org/abs/1708.07747) - arXiv:1708.07747 [cs.LG]
 
 * [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi](https://www.nature.com/articles/d41586-023-01970-6) - Nature
 
