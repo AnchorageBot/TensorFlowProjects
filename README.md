@@ -10,6 +10,10 @@ Videos
 * [Machine Learning for Raspberry Pi - Kang](https://www.youtube.com/@TensorFlow/videos)
 * [Machine Learning for Everybody-Kylie Ying](https://youtu.be/i_LwzRVP7bg)
 
+Articles
+
+* [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi - 2023](https://www.nature.com/articles/d41586-023-01970-6) - Nature
+
 Papers
 
 * [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt - 1957](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf) - Umass edu
@@ -32,8 +36,6 @@ Papers
  
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models - 
 Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, Brian Fuller, Cynthia Gao, Vedanuj Goswami, Naman Goyal, Anthony Hartshorn, Saghar Hosseini, Rui Hou, Hakan Inan, Marcin Kardas, Viktor Kerkez, Madian Khabsa, Isabel Kloumann, Artem Korenev, Punit Singh Koura, Marie-Anne Lachaux, Thibaut Lavril, Jenya Lee, Diana Liskovich, Yinghai Lu, Yuning Mao, Xavier Martinet, Todor Mihaylov, Pushkar Mishra, Igor Molybog, Yixin Nie, Andrew Poulton, Jeremy Reizenstein, Rashi Rungta, Kalyan Saladi, Alan Schelten, Ruan Silva, Eric Michael Smith, Ranjan Subramanian, Xiaoqing Ellen Tan, Binh Tang, Ross Taylor, Adina Williams, Jian Xiang Kuan, Puxin Xu, Zheng Yan, Iliyan Zarov, Yuchen Zhang, Angela Fan, Melanie Kambadur, Sharan Narang, Aurelien Rodriguez, Robert Stojnic, Sergey Edunov, Thomas Scialom - 2023](https://arxiv.org/abs/2307.09288) - 	arXiv:2307.09288 [cs.CL]
-
-* [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi - 2023](https://www.nature.com/articles/d41586-023-01970-6) - Nature
 
 Books
 
