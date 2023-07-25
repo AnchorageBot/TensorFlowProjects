@@ -30,6 +30,9 @@ Papers
 
   * [Dataset used in the Xiao et al Paper](https://github.com/zalandoresearch/fashion-mnist) - Github
 
+* [On the Measure of Intelligence
+François Chollet - 2019](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs)
+
 * [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer - 2021](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV]
 
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
