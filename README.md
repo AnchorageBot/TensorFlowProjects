@@ -6,6 +6,8 @@ This github repository holds references for, and scripts resulting from, various
 
 * Google - [Do It Yourself AI - Vision, Voice, Maker Kits](https://aiyprojects.withgoogle.com)
 
+* Google - [Colab Tutorials for Coral](https://github.com/google-coral/tutorials#colab-tutorials-for-coral)
+
 Videos 
 
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
