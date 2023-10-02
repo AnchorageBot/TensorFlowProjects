@@ -4,7 +4,7 @@ This github repository holds references for, and scripts resulting from, various
 
 * The [TensorFlow path](https://www.tensorflow.org/resources/learn-ml) to enlightenment
 
-* Google - [Do It Yourself AI](https://aiyprojects.withgoogle.com)
+* Google - [Do It Yourself AI - Vision, Voice, Maker Kits](https://aiyprojects.withgoogle.com)
 
 Videos 
 
