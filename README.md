@@ -71,7 +71,7 @@ General Observations
 
 * 'machine learning provides pattern recognition'
 
-* 'convert an image into a numerical representation'
+* 'convert an image/sound/phrase/spectra into a numerical representation'
 
 * 'determine the activities and write the code that matches the data to the labels'
 
