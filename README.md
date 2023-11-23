@@ -8,6 +8,14 @@ This github repository holds references for, and scripts resulting from, various
 
 * Google - [Colab Tutorials for Coral](https://github.com/google-coral/tutorials#colab-tutorials-for-coral)
 
+General Observations
+
+* 'machine learning provides pattern recognition'
+
+* 'convert an image/sound/phrase/spectra into a numerical representation'
+
+* 'determine the activities and write the code that matches the data to the labels'
+
 Videos 
 
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
@@ -67,13 +75,7 @@ MOOCs
 
 * [MOOC dot org](https://www.mooc.org)
 
-General Observations
-
-* 'machine learning provides pattern recognition'
-
-* 'convert an image/sound/phrase/spectra into a numerical representation'
-
-* 'determine the activities and write the code that matches the data to the labels'
+- - - -
 
 IDE
 
