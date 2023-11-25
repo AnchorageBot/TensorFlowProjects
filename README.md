@@ -22,6 +22,8 @@ Videos
 * [Machine Learning for Raspberry Pi - Kang](https://www.youtube.com/@TensorFlow/videos)
 * [Machine Learning for Everybody-Kylie Ying](https://youtu.be/i_LwzRVP7bg)
 
+* [Intro to Large Language Models - Andrej Karpathy](https://youtu.be/zjkBMFhNj_g?si=g-ccF_LUNNgQLTi9)
+
 Articles
 
 * [Open-source AI chatbots are booming — what does this mean for researchers? - Davide Castelvecchi - 2023](https://www.nature.com/articles/d41586-023-01970-6) - Nature
