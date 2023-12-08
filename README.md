@@ -19,6 +19,8 @@ General Observations
 Videos 
 
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
+* [Tensorflow in 100 seconds - Fireship](https://youtu.be/i8NETqtGHms?si=tlhIFRSGeS5DI4EY)
+  
 * [Machine Learning for Raspberry Pi - Kang](https://www.youtube.com/@TensorFlow/videos)
 * [Machine Learning for Everybody-Kylie Ying](https://youtu.be/i_LwzRVP7bg)
 
