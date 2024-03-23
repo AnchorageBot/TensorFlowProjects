@@ -16,6 +16,8 @@ General Observations
 
 * 'determine the activities and write the code that matches the data to the labels'
 
+* 'Competence without comprehension is a strategy in nature and perhaps in machine learning as well.'
+
 Videos 
 
 * The TensorFlow [Youtube channel](https://www.youtube.com/tensorflow)
